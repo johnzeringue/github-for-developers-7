@@ -1,0 +1,5 @@
+- Name: John
+- Hometown: Mount Pleasant, SC
+- Favorite food: chicken and waffles
+- Hobby: programming
+- Favorite color: red
