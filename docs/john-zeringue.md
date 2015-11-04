@@ -3,3 +3,4 @@
 - Favorite food: chicken and waffles
 - Hobby: programming
 - Favorite color: red
+- Current location: Addlestone Library
